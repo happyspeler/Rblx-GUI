@@ -1,2 +1,8 @@
 # Rblx-GUI
- Roblox script hub with stolen scripts
+ A Roblox GUI for basic exploiting.
+ 
+ 
+ - Simple UI!
+ - Perfect for beginners!
+ 
+ I honestly dont know what do say now... good luck
