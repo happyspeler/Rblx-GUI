@@ -117,7 +117,7 @@ end)
 
 Dark_Hub.MouseButton1Down:Connect(function()
 
-    loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init')"))()
+    loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init")))()
 
 end)
 
