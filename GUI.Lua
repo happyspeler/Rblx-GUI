@@ -44,4 +44,12 @@ OPEN.TextSize = 14.000
 
 OPEN.MouseButton1Down:Connect(function()
   -- do stuff
+  script.Parent.MouseButton1Down:connect(function()
+	if script.Parent.Parent.Frame.Visible == false then
+		script.Parent.Parent.Frame.Visible = true
+		script.Parent.Text = "Close"
+	else
+		script.Parent.Parent.Frame.Visible = false
+		script.Parent.Text = "Open"
+	end
 end)
